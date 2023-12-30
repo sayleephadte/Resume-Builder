@@ -9,6 +9,25 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 - Dark mode for easy viewing
 - Image upload for profile picture
 
+## Getting Started
+1. Clone this repository to your local machine
+```bash
+git clone https://github.com/sayleephadte/Resume-Builder.git
+```
+2. Navigate to the project directory
+```bash
+cd Resume-Builder
+```
+3. Install dependencies
+```bash
+npm install
+```
+4. Run the app
+```bash
+npm run start
+```
+5. Open http://localhost:3000 in your browser to see the application running
+
 ### Built With
 - [React](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
